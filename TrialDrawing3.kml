@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="entities" id="entities">
+	<SimpleField name="Layer" type="string"></SimpleField>
+	<SimpleField name="SubClasses" type="string"></SimpleField>
+	<SimpleField name="ExtendedEntity" type="string"></SimpleField>
+	<SimpleField name="Linetype" type="string"></SimpleField>
+	<SimpleField name="EntityHandle" type="string"></SimpleField>
+	<SimpleField name="Text" type="string"></SimpleField>
+</Schema>
+<Folder><name>entities</name>
+  <Placemark>
+	<Style><LineStyle><color>FFff00ff</color><width>5669.28</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#entities">
+		<SimpleData name="Layer">A-_SITE----_E</SimpleData>
+		<SimpleData name="SubClasses">AcDbEntity:AcDbBlockReference</SimpleData>
+		<SimpleData name="ExtendedEntity">{      1 11935343 } {      2 -2001260 } {      3 -2001265 }</SimpleData>
+		<SimpleData name="EntityHandle">3AD</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>102.124710782458,1.94109119373453,0 102.06214312292,2.11837014432428,0</coordinates></LineString><LineString><coordinates>102.136981769234,1.90375128977148,0 102.124710782458,1.94109119373453,0</coordinates></LineString><LineString><coordinates>102.147599979228,1.86590346229088,0 102.136981769234,1.90375128977148,0</coordinates></LineString><LineString><coordinates>102.422951456787,0.794665810155227,0 102.147599979228,1.86590346229077,0</coordinates></LineString><LineString><coordinates>102.431278839464,0.768850632246204,0 102.422951456787,0.794665810155227,0</coordinates></LineString><LineString><coordinates>102.442660494114,0.744220974546037,0 102.431278839464,0.768850632246204,0</coordinates></LineString><LineString><coordinates>102.456934723984,0.721145141930641,0 102.442660494114,0.744220974546037,0</coordinates></LineString><LineString><coordinates>102.473876950242,0.699964496515289,0 102.456934723984,0.721145141930641,0</coordinates></LineString><LineString><coordinates>102.493253610917,0.680975490427495,0 102.473876950242,0.699964496515289,0</coordinates></LineString><LineString><coordinates>102.514786228277,0.664456611072015,0 102.493253610917,0.680975490427495,0</coordinates></LineString><LineString><coordinates>102.538142425669,0.650659397012492,0 102.514786228277,0.664456611072015,0</coordinates></LineString><LineString><coordinates>102.56299880958,0.639781488723305,0 102.538142425669,0.650659397012492,0</coordinates></LineString><LineString><coordinates>102.588987070751,0.631975609650079,0 102.56299880958,0.639781488723305,0</coordinates></LineString><LineString><coordinates>102.615720933605,0.627367530546298,0 102.588987070751,0.631975609650041,0</coordinates></LineString><LineString><coordinates>102.642814122572,0.626011155601693,0 102.615720933605,0.627367530546298,0</coordinates></LineString><LineString><coordinates>102.669880362085,0.627933435210926,0 102.642814122572,0.626011155601693,0</coordinates></LineString><LineString><coordinates>102.696514635279,0.633103091025023,0 102.669880362085,0.627933435210926,0</coordinates></LineString><LineString><coordinates>103.96802679601,0.960762723244918,0 102.696514635279,0.633103091025023,0</coordinates></LineString><LineString><coordinates>104.056491863544,0.982038792976817,0 103.96802679601,0.960762723244892,0</coordinates></LineString><LineString><coordinates>104.145604739728,1.00044251857396,0 104.056491863544,0.982038792976817,0</coordinates></LineString><LineString><coordinates>104.235256605079,1.0159540217398,0 104.145604739728,1.00044251857396,0</coordinates></LineString><LineString><coordinates>104.325375594387,1.02856436090871,0 104.235256605079,1.0159540217398,0</coordinates></LineString><LineString><coordinates>104.415844926646,1.03824662457974,0 104.325375594387,1.02856436090871,0</coordinates></LineString><LineString><coordinates>104.47870004708,1.04292607535143,0 104.415844926646,1.03824662457971,0</coordinates></LineString><LineString><coordinates>104.57861965613,1.14887194837965,0 104.47870004708,1.04292607535143,0</coordinates></LineString><LineString><coordinates>104.60537250694,2.77449933239969,0 104.57861965613,1.14887194837965,0</coordinates></LineString><LineString><coordinates>103.145825765916,2.39886632485451,0 104.60537250694,2.77449933239969,0</coordinates></LineString><LineString><coordinates>102.075222593451,2.12175447479219,0 103.145825765916,2.39886632485451,0</coordinates></LineString><LineString><coordinates>102.06214312292,2.11837014432428,0 102.075222593451,2.12175447479219,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
